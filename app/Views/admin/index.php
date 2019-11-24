@@ -1,0 +1,1 @@
+<h2>Bienvenue sur votre espace administration.</h2>
